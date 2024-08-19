@@ -9,8 +9,8 @@ spring:
         git:
           uri: https://github.com/JosueGabriel0/DAD-2024-22.git # ruta del repositorio git
           searchPaths: config-data
-          default-label: config-server
+          default-label: main
   security:
     user:
       name: root
-      password: 123456
+      password: 1234
